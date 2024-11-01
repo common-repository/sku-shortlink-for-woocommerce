@@ -1,0 +1,161 @@
+# Copyright (C) 2020 Varun Sridharan
+# This file is distributed under the same license as the SKU Shortlink For WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SKU Shortlink For WooCommerce 1.4\n"
+"Report-Msgid-Bugs-To: https:\/\/wordpress.org\/support\/plugin\/sku-shortlink-for-woocommerce\n\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: varunsridharan23@gmail.com\n\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-06-14T14:21:54+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: sku-shortlink-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: sku-shortlink-for-woocommerce.php:22
+msgid "SKU Shortlink For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/sku-shortlink-for-woowommerce/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add Product SKU value in woocommerce products url"
+msgstr ""
+
+#. Author of the plugin
+msgid "Varun Sridharan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://varunsridharan.in"
+msgstr ""
+
+#: bootstrap.php:35
+msgid "This handy plugin might just be what you have searched for. It will create URL Aliases for your WooCommerce products."
+msgstr ""
+
+#: bootstrap.php:41
+msgid "SKU Shortlink"
+msgstr ""
+
+#: bootstrap.php:63
+msgid "⚙️ Settings"
+msgstr ""
+
+#: bootstrap.php:64
+msgid "ℹ️ System Info"
+msgstr ""
+
+#: bootstrap.php:65
+msgid "📚 F.A.Q"
+msgstr ""
+
+#: bootstrap.php:66
+msgid "📦 View On Github"
+msgstr ""
+
+#: bootstrap.php:67
+msgid "📝 Report An Issue"
+msgstr ""
+
+#: bootstrap.php:68
+msgid "💁🏻 Donate"
+msgstr ""
+
+#: includes/functions.php:30
+msgid "Custom"
+msgstr ""
+
+#: includes/wponion.php:17
+msgid "General"
+msgstr ""
+
+#: includes/wponion.php:19
+msgid "Documentation"
+msgstr ""
+
+#: includes/wponion.php:24
+msgid "System Info"
+msgstr ""
+
+#: includes/wponion.php:30
+msgid "SKU Url Type"
+msgstr ""
+
+#. translators:
+#: includes/wponion.php:35
+msgid "Custom URL Format"
+msgstr ""
+
+#: includes/wponion.php:37
+msgid "Use `%sku%` to replace the value with sku code"
+msgstr ""
+
+#: includes/wponion.php:38
+msgid "Use `%any%` to replace any type of values like `Category, Slug, ID` and more ***(Only Dynamic URL)***"
+msgstr ""
+
+#: includes/wponion.php:44
+msgid "If Product SKU Link Not Working. Then Try Updating Permalink "
+msgstr ""
+
+#: includes/wponion.php:51
+msgid "Modify Product URL"
+msgstr ""
+
+#: includes/wponion.php:53
+#: includes/wponion.php:59
+#: includes/wponion.php:66
+msgid "NO"
+msgstr ""
+
+#: includes/wponion.php:54
+#: includes/wponion.php:60
+#: includes/wponion.php:67
+msgid "Yes"
+msgstr ""
+
+#: includes/wponion.php:57
+msgid "Modify Product AddToCart"
+msgstr ""
+
+#: includes/wponion.php:61
+msgid "IF Enabled Then Product's Add-To-Cart Url Will Have Products SKU"
+msgstr ""
+
+#: includes/wponion.php:64
+msgid "Change Product Links in Admin "
+msgstr ""
+
+#: includes/wponion.php:71
+msgid "Product URL Format "
+msgstr ""
+
+#: includes/wponion.php:73
+msgid "Use `%sku%` For Product SKU."
+msgstr ""
+
+#: includes/wponion.php:74
+msgid "Use `%postname%` For Product Slug."
+msgstr ""
+
+#: includes/wponion.php:75
+msgid "Use `%id%` For Product ID."
+msgstr ""
+
+#: includes/wponion.php:76
+msgid "Use `%category%` For Product Category."
+msgstr ""
+
+#: includes/wponion.php:80
+msgid "Select Random Category"
+msgstr ""
+
+#: includes/wponion.php:81
+msgid "If enabled and if a product has more than 1 category then category slug in the url will be picked at random"
+msgstr ""
